@@ -38,19 +38,19 @@ This Python project implements Boolean function minimization using the **Quine-M
 This section demonstrates the outputs for the three cases of minimization using example inputs and visual representations.
 
 ### **Case 1**: All Possible Solutions
-The following image displays the prime implicant chart and all possible solutions after applying Row and Column Dominance once.
+The following image displays all possible solutions after applying Row and Column Dominance once.
 
 ![Alt Text](EX-1.jpg)
 
 
 ### **Case 2**: One Unique Solution
-The image below shows the prime implicant chart and the unique solution derived after a single application of Row and Column Dominance.
+The image below shows the unique solution derived after a single application of Row and Column Dominance.
 
-![Alt Text](https://raw.githubusercontent.com/username/repository/branch/path/to/image.png)
+![Alt Text](EX-2.jpg)
 
 
 ### **Case 3**: Stabilized Chart and Unique Solution
-The image below illustrates the stabilized prime implicant chart and the final minimal solution after repeated applications of Row and Column Dominance.
+The image below illustrates the stabilized final minimal solution after repeated applications of Row and Column Dominance.
 
-![Alt Text](https://raw.githubusercontent.com/username/repository/branch/path/to/image.png)
+![Alt Text](EX-3.jpg)
 
