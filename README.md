@@ -40,7 +40,7 @@ This section demonstrates the outputs for the three cases of minimization using 
 ### **Case 1**: All Possible Solutions
 The following image displays the prime implicant chart and all possible solutions after applying Row and Column Dominance once.
 
-![Alt Text](https://raw.githubusercontent.com/username/repository/branch/path/to/image.png)
+![Alt Text](EX-1.jpg)
 
 
 ### **Case 2**: One Unique Solution
